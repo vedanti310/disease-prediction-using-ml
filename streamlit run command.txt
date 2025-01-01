@@ -1,0 +1,6 @@
+
+C:\Users\registrar\Desktop\diesase detection>pip install streamlit-option-menu
+
+C:\Users\registrar\Desktop\diesase detection>pip install scikit-learn
+
+streamlit run "C:\Users\registrar\Desktop\diesase detection\diseaseprediction.py"
