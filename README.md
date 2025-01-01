@@ -53,8 +53,7 @@ This repository contains a **Health Assistant** application that utilizes Machin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/health-assistant.git
-   cd health-assistant
+   git clone https://github.com/vedanti310/disease-prediction-using-ml.git
    ```
 2. Place the trained model files (`diabetes_model.sav`, `heart_disease_model.sav`) in the project directory.
 3. Run the Streamlit app:
