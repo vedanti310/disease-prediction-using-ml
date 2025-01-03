@@ -1,6 +1,6 @@
 # Health Assistant Application
 
-This repository contains a **Health Assistant** application that utilizes Machine Learning models to predict health conditions like **Diabetes** and **Heart Disease**. Additionally, it provides tailored Indian diet plans based on the prediction results and features an interactive chatbot for health-related discussions.
+This repository contains a **Health Assistant** application that utilizes Machine Learning models to predict health conditions like **Diabetes** and **Heart Disease**. Additionally, it provides tailored Indian diet plans based on the prediction results .
 
 ---
 
